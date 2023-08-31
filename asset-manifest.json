@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QRify/static/css/main.08564272.css",
+    "main.js": "/QRify/static/js/main.f55a6efe.js",
+    "index.html": "/QRify/index.html",
+    "main.08564272.css.map": "/QRify/static/css/main.08564272.css.map",
+    "main.f55a6efe.js.map": "/QRify/static/js/main.f55a6efe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08564272.css",
+    "static/js/main.f55a6efe.js"
+  ]
+}
